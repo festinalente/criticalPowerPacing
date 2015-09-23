@@ -1,0 +1,109 @@
+Hi Stephen, 
+
+Since I submited the original proposal things have changed slightly, with the main aim of the project being devising a fitness test and validating this with a real world time trial, rather than comparing it against other tests for the same thing. 
+
+Essentially the concept tackled is that of sustainable power or threshold (for want of a better term!) which ignores the interplay between various systems and is itself a rather garbled concept. Hence tests like MLSS, functional threshold power (FTP), come up short because they are targeting one discreet measure and not the many system that are involved in providing energy. Also some comercial terms and methods commonly used are based on unpublished research. 
+
+The reason this came to my mind was that lab tests done on professional cyclists had little or no bearing on how they actually raced. Steady efforts happen seldomly. Likewise, current wisdom in triathlon says that steady pacing is superior to dynamic pacing, where dynamic pacing involve changes of intensity in accordance with the environmental circumstances. 
+Part one
+Testing “Critical Power”; slope of a line between average power for several durations:
+Testing the ATP-PCr system
+Testing anaerobic glycolytic system
+Testing recovery between these efforts.
+Testing “threshold”; 20’ test. This is a standard field test in cycling.
+
+This can be lab based, or field based, with or without direct measurement of power. It is intended only for benchmarking performance and later providing a script on race pacing strategy. How the script is written, i.e. the logic underpinning what advice is given when and why, is done after the initial batch of testing. This logic will be evidence based. E.g., if it is observed an athlete has a poor recovery between sprint one and sprint two (reduced performance in sprint two), sprinting would be discouraged as part of the pacing strategy script.
+Part two
+Validating this test through the use of a time trial event using a normal pacing strategy and a dynamic pacing strategy, suggested by the results of the test. i.e. modeling an optimal pacing strategy based on the results of the prior test. What got me on to this was the fact most 
+
+Key to this choice of test is seeking real world validation. That is, the results provide a measurable difference in real world scenarios where the information is intended to be used. 
+Questions raised to be answered through the literature
+There are several questions I will answer bit by bit...
+
+Do prior effort such as two sprint efforts affect later performance in longer duration events positively or negatively? 
+Is a field test time trial a valid way of testing performance.
+Why do it? 
+In reading about lactate threshold it became obvious that segregating metabolic systems, rather than accounting for them, their effect and using that information ignored important aspects of training. This is especially noticeable in the case of FTP which takes 95% of a cyclists average power produced over a 20 min period and equates this to lactate threshold. From this generalized fatigue is calculated and termed Training Stress Score (TSS). While this system provides a weighting for “anaerobic” efforts it does not reflect what is actually happening. E.g. the recovery cost of a 10 sec sprint in trained cyclists is minimal, but for a 1 min effort it is significantly more costly.  
+
+There seems to be no excuse in this day and age with the amount of information easilly collected from athlete not to better track performance and the fitness of each system. 
+Why not to do it?
+There are many ways to detect threshold, they work reasonably well. Athlete education might provide an alternative way of explaining what to expect and what to do when a certain system reaches exhaustion. Why complicate, just adapt to the tools that are there?
+Hypothesis
+That the proposed test will provide a more accurate guide for time trial performance than either “FTP” or self-paced efforts. 
+
+That the energy systems tested can and should affect training and race strategy. 
+Final note
+I’m sure it’s quite obvious there are several things going on here. I am already familiar with a lot of the problems and potential pitfalls for a number of aspects of this study. The greatest problem is without a doubt the difficulty of doing a time trial on a technical course. There aren’t any great misteries to pacing an effort on a flat course, so for this to be worth something, it needs to proove useful on a technical course. 
+
+
+
+
+
+
+Project Proposal Form 2014/2015
+
+Please complete the following areas thoroughly. This will allow us to better allocate a supervisor for next year. Please return this form to Damian Keil d.keil@mmu.ac.uk (ext 5533) by 20th Mar 2015.
+
+
+Name: Tomas Swift-Metcalfe Student Number 10975264
+
+Proposed Project Title
+Development of a model for individualized pacing strategy in non-drafting cycling events.
+
+Short Description/rationale
+
+Pacing strategy is a fundamental part of good exercise performance for any athlete taking part in long distance endurance exercise events. Many authors suggest an even pacing strategy is the most effective (Abiss and Laursen, 2008). While others suggest a variable pacing strategy is better (Thomas et al., 2012). Athletes also seem to self-select a variable pacing strategy (Abiss et al., 2006). In finding these conclusions, authors tend to ignore sprint efforts and focus on effort just above or just below critical power (Atkinson et al., 2007) and in scenarios that are not realistic.
+
+It is hypothesised that a relevant individualized pacing model can be derived from an individual's critical power and power at various durations of exercise, shown to be useful in determining the boundary between sustainable and unsustainable performance (Vanhatalo et al., 2011) and that this can improve cycling performance.
+
+Proposed methodology
+
+It is proposed to investigate the question in two parts: Firstly develop a mathematical pacing model that accounts for the forces acting on the cyclist at any one time along a course, and various metabolic systems at play at various exercise intensities, basing any conclusions on evidence found in the scientific literature. Secondly, derive values in a field test for application in the pacing model. Thirdly, test the difference between performance in the pacing model and 
+a self-paced effort (within-subjects design) .
+
+The dependant measure is time to completion of a set course. The independent variable is the provision of information on pacing strategy. Qualitative data on mood states and perceived exhaustion is collected to account for psychological factors since these factors may render that specific sample invalid.
+
+The proposed experiment involves two trials one self-paced another utilizing the suggested approach by the model. The mood of each athlete will be controlled using an abbreviated Profile of Mood States Questionnaire before each trial. Each trial begins with a warm up period of 50 min with two maximal 12 second sprints on at minute 30 and another min 32:12 and two maximal 2 min efforts at min 34:24 and another at 40:24. All the intervening time during the warm up will be done at a self selected power output in the first trial, repeating this same power output in the second trial. Once the warm up is completed, the participants are counted down from 30 sec to begin the 9.9 km time trial. The 9.9km route is mostly free from traffic, any traffic or incident being recorded subsequent to each test. In the first trial the participants are instructed to do their best time. No verbal encouragement of any kind is given at any point till the trial is finished. Participants are not able to see each other while performing the trial and no one accompanies them during any part of the trial. At the start of each 9.9km trial and after each client is asked their rate of perceived (RPE) utilizing the 20 point Borg scale. The group will be sub-divided into 4 smaller groups and tested on different dates.
+
+The following factors are controlled for the three days preceding each test: Diet and exercise. For the first test participants are asked to keep a food diary, that they are to repeat for the second test, eating the same thing and do the same training except the day immediately before each test where they are asked to rest.
+
+As well as mood and RPE, heart rate (HR), power and velocity will be recorded. These data will be collected utilizing a Powertap (Cycleops, Wisconsin, USA) and a Garmin 910xt (Garmin, Switzerland) GPS enabled heart rate monitor. Additionally weather condition will be monitored and recorded, including air pressure, temperature, wind speed and direction.
+
+Data from the first test will be processed to establish 12 sec power, 2 min power and critical power as well as difference in performance between each pair of 12 second and 2 min efforts. From these data an individualized pacing strategy is devised utilising a previously established logic garnered from the scientific literature. Pacing strategy will be delivered as a set of standardised instructions relating to the suggested action to take in a particular situation.
+
+HR, power and velocity are collect in an XML format and kept as raw data. The course will be broken down into specific segments based on average gradient and change of gradient. The mean power for that segment as well as peak power in each segment calculated. Descriptive statistics will be produced as well as plots of the raw for visual analysis for group data for each test. The data will tested for normality using Shapiro-Wilks test. Depending on the results of this a Wilcoxon matched pairs test or a paired t-test will be used to test for difference between the pre-instruction and post-instruction tests.
+
+Participants (if appropriate)
+
+Participants will be 20. They are age-group triathletes and masters cyclists between the ages of 17 and 56 who compete in these sports.
+
+
+Key References and Resources (Must be at least 5 Journal papers and 3 key books as a MINIMUM). Please reference these correctly according to the Harvard requirements. Add any additional key resources you will be accessing but NO WEBSITES at this stage.
+
+
+Abbiss, C. R., Quod, M. J., Martin, D. T., Netto, K. J., Nosaka, K., Lee, H., Suriano, D., Bishop, D. and Laursen, P. B. (2006) 'Dynamic Pacing Strategies during the Cycle Phase of an Ironman Triathlon.' Medicine and Science in Sport and Exercise, 38(4), pp. 726-734.
+Abiss, C. R. and Laursen, P. B. (2008) 'Describing and understanding pacing strategies during athletic competition.' Sports Medicine, 38(3), pp. 239-252.
+
+Atkinson, G., Peacock, O. and Passfield, L. (2007) 'Variable versus constant power strategies during cycling time-trials: 	prediction of time savings using an up-to-date mathematical model.' Journal of Sports Science, 25(9), pp. 1001-1009. 	
+
+Brickley, G., Green, S., Jenkins, D. G., McEinery, M., Wishart, C., Doust, J. D. and Williams, C. A. (2007) 'Muscle metabolism during constant- and alternating-intensity exercise around critical power.' International Journal of Sports Medicine, 28(4), pp. 300-305. 	
+
+Johnson, E. C., Pryor, J. C., Casa, D. J., Belval, L. N., Vance, J. S., DeMartini, J. K., Maresh, C. M. and Armstrong, L. E. (2015) 'Bike and run pacing on downhill segments predict Ironman triathlon relative success' Journal of Science and Medicine in Sport, 18(1), pp. 82-87. 	
+
+Thomas, K., Stone, M. R., Thompson, K. G., St. Clair Gibson, A. and Ausley, L. (2012) 'The 	effect if self- even- and variable-pacing strategies on the physiological and perceptual response to cycling.' European Journal of Applied Physiology, 112(8), pp. 3069-3078.
+
+Vanhatalo, A., Jones, A. M. and Burnley, M. (2011) 'Application of critical power in sport.' International Journal of Sports Physiology, 6(1), pp. 128-136.
+
+Burke, E. R. (1996) High-Tech Cycling. Champaign: Human Kinetics.
+
+Hawley, J. and Burke, L. (1998) Peak Performance: Training and Nutritional Strategies for Sport. St Leonards: Allen and Unwin.
+
+Allen, H. and Coggan, A. (2010) Training and Racing with a Power Meter. 2Nd ed., Boulder:Velopress.
+
+
+
+
+Date 20/03/2015
+
+Please contact Damian before you submit this proposal to ‘float’ your ideas and we will also suggest a member of staff who might be your supervisor. This will allow you to have some discussion before submission (d.keil@mmu.ac.uk – 5533)
+
